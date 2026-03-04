@@ -36,7 +36,7 @@ Binary classification system to predict whether a diabetic patient will be readm
 
 ```bash
 git clone [REPO-URL]
-cd Diabetes-prediction-analytics
+cd Predictive-Analytics-Submission
 ```
 
 ### 2. Install dependencies
